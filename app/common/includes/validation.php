@@ -343,6 +343,7 @@ $operators_valid_languages = array(
                                     "ja" => "Japanese",
                                     "pt_br" => "Portuguese - Brazilian",
                                     "ro" => "Romanian",
+                                    "uk" => "Ukrainian",
                                     "ru" => "Russian",
                                     "tr" => "Turkish",
                                     "zh" => "Chinese",
